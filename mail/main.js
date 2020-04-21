@@ -2,9 +2,9 @@
 
 var email = ["pippo@boolean.it", "plata@boolean.it", "plomo@boolean.it", "topolino@boolean", "paperino@boolean.it", "minnie@boolean.it", "pluto@boolean.it", "pablo@boolean.it"];
 
-email.lenght;
+email.length;
 
-console.log(email.lenght);
+console.log(email.length);
 
 
 console.log(email[0]);
@@ -12,7 +12,7 @@ console.log(email[0]);
 
 
 
-for (var i = 0; i < email.lenght; i++){
+for (var i = 0; i < email.length; i++){
 
     console.log(email[i]);
 
